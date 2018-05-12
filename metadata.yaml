@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '37870'
     url: http://www.gutenberg.org/2009/agents/37870
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35743#Tri-unuaktaj-komedioj
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2011-04-01'
 gutenberg_type: Text
