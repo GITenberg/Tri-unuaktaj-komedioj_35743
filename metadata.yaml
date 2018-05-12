@@ -1,0 +1,42 @@
+_repo: Tri-unuaktaj-komedioj_35743
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Kotzebue, August von
+    aliases:
+    - Kotzebue, A. von (August)
+    - Von Kotzebue, August
+    - Kotzebue, August Friedrich Ferdinand von
+    birthdate: 1761
+    deathdate: 1819
+    gutenberg_agent_id: '1502'
+    url: http://www.gutenberg.org/2009/agents/1502
+    wikipedia: http://en.wikipedia.org/wiki/August_von_Kotzebue
+  - agent_name: Hankel, Marie
+    birthdate: 1844
+    deathdate: 1929
+    gutenberg_agent_id: '37871'
+    url: http://www.gutenberg.org/2009/agents/37871
+    wikipedia: http://eo.wikipedia.org/wiki/Marie_Hankel
+  - agent_name: Williams, T.
+    gutenberg_agent_id: '37870'
+    url: http://www.gutenberg.org/2009/agents/37870
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2011-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35743'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PM'
+tableOfContents: La malfeliĉuloj -- Tie ĉi oni parolas Esperante -- La Renkonto.
+title: Tri unuaktaj komedioj
+url: http://www.gutenberg.org/ebooks/35743
